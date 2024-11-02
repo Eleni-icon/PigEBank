@@ -34,7 +34,6 @@ The analysis was conducted using Python, with the code executed in Jupyter noteb
 - **NumPy**: For numerical operations and array handling.
 - **OS**: For interacting with the operating system, including file and directory operations.
 
-Additional analysis was performed using Excel, and the decision tree was crafted using SmartDraw.
 
 ## Disclaimer
 Pig E. Bank is a fictitious company. All data used for this analysis was provided by CareerFoundry and utilized solely for educational purposes as part of the Data Analytics program.

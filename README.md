@@ -18,15 +18,6 @@ Pig E. Bank, a prominent global financial institution, is seeking analytical sup
 - Credit card ownership or active membership status
 - Estimated salary
 
-## Folder Structure
-The contents are organized as follows:
-
-- **01 Project Management**: Contains the project brief and related documentation.
-- **02 Data**: Includes two subfolders:
-  - **Original Data**: Contains the raw datasets.
-  - **Prepared Data**: Contains the cleaned data ready for analysis.
-- **03 Scripts**: Python code for the analysis, executed using Jupyter notebooks.
-- **04 Analysis**: Contains Excel documentation for exploratory analysis, insights, top risk factors, and the decision tree model.
 
 ## Code Overview
 The analysis was conducted using Python, with the code executed in Jupyter notebooks. The main Python libraries used include:
